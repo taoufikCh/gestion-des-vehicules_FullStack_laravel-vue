@@ -1,3 +1,13 @@
+## Application web FullStack Laravel+vue
+<p>Gestion des véhicules est une application fullstack, basée sur Laravel et Vue </p>
+
+<p>L'utilisateur peut ajouter, modifier, supprimer et lister des véhicules [CRUD]</p>
+<b><ul>
+<li>Vue - pour le frontend</li>
+<li>Laravel 10 - pour le backend</li>
+<li>MySQL : pour la solution de base de données</li>
+</ul></b>
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
